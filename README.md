@@ -71,7 +71,8 @@
 - **打印 / PDF**：右上角打印按钮，打印样式会展开全部章节、隐藏交互控件。
 - **零前端依赖**：没有 React / Vue / 构建框架，原生 HTML / CSS / JavaScript，离线可用。
 
-![移动端实验](preview-mobile-lab.png)
+移动端实验
+<img width="390" height="844" alt="preview-mobile-lab" src="https://github.com/user-attachments/assets/875105aa-569d-415e-9c57-b85c88520881" />
 
 ## 目录结构
 
@@ -161,8 +162,7 @@ node tools/visual-test.js
 
 ## 课程边界
 
-“完整”指**本科 Java 核心课程 + 初级工程实践主干**：语言、OOP、集合、Stream、IO、并发、JVM、测试、构建与一个完整项目。Java 生态没有边界，JDBC、Spring Boot、Android、大数据等方向在 第 17 章 <img width="390" height="844" alt="preview-mobile-lab" src="https://github.com/user-attachments/assets/875105aa-569d-415e-9c57-b85c88520881" />
-给出学习地图，而不是假装在一门课里全部讲完。
+“完整”指**本科 Java 核心课程 + 初级工程实践主干**：语言、OOP、集合、Stream、IO、并发、JVM、测试、构建与一个完整项目。Java 生态没有边界，JDBC、Spring Boot、Android、大数据等方向在 第 17 章 给出学习地图，而不是假装在一门课里全部讲完。
 
 适合：
 
