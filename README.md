@@ -15,25 +15,25 @@
 
 ## 课程内容
 
-| 章节                  | 主题               | 关键内容                                                     |
-| --------------------- | ------------------ | ------------------------------------------------------------ |
-| [01](index.html#ch01) | 认识 Java          | JDK / JRE / JVM、字节码、第一个程序、包与命名、Scanner、排错 |
-| [02](index.html#ch02) | 变量、类型与运算   | 八种基本类型、转换与溢出、运算符、浮点陷阱、BigDecimal、包装类 |
-| [03](index.html#ch03) | 流程控制           | if / switch 箭头语法、for / while / do-while、break / continue / 标签 |
-| [04](index.html#ch04) | 方法与递归         | 方法设计、值传递、重载、可变参数、调用栈、递归与记忆化       |
-| [05](index.html#ch05) | 数组与字符串       | 数组、二维数组、复制、String 不可变、StringBuilder、文本块、正则 |
-| [06](index.html#ch06) | 类与对象           | 构造器、封装、static、对象内存、record                       |
-| [07](index.html#ch07) | 继承与多态         | extends / super、重写、动态分派、Object 契约、抽象类、组合   |
-| [08](index.html#ch08) | 接口、枚举与设计   | 接口、default、枚举、策略模式、依赖注入、SOLID、注解         |
-| [09](index.html#ch09) | 异常处理           | 异常体系、try / catch / finally、try-with-resources、自定义异常、反模式 |
-| [10](index.html#ch10) | 集合与泛型         | List / Set / Map、ArrayList、HashMap 原理、泛型、类型擦除、PECS |
-| [11](index.html#ch11) | Lambda 与 Stream   | 函数式接口、方法引用、Stream 流水线、Collectors、Optional、并行流 |
-| [12](index.html#ch12) | 日期时间与 IO      | java.time、时区、Path / Files、字符流、CSV 处理、编码        |
-| [13](index.html#ch13) | 并发编程           | 线程、竞态条件、synchronized、volatile、Atomic、线程池、虚拟线程 |
-| [14](index.html#ch14) | JVM、内存与性能    | 运行时数据区、类加载、GC、G1 / ZGC、JIT、jstack / jmap / JFR |
-| [15](index.html#ch15) | 测试、构建与工程化 | JUnit 5、TDD、Maven、日志、Git、调试、CI                     |
-| [16](index.html#ch16) | 综合项目           | 图书借阅系统：需求、分层、完整源码、测试、扩展路线           |
-| [17](index.html#ch17) | 知识全景与进阶     | 版本演进、后端 / Android / 大数据路线、30 天计划、自检清单   |
+| 章节 | 主题               | 关键内容                                                     |
+| -- | ------------------ | ------------------------------------------------------------ |
+| 01 | 认识 Java          | JDK / JRE / JVM、字节码、第一个程序、包与命名、Scanner、排错 |
+| 02 | 变量、类型与运算   | 八种基本类型、转换与溢出、运算符、浮点陷阱、BigDecimal、包装类 |
+| 03 | 流程控制           | if / switch 箭头语法、for / while / do-while、break / continue / 标签 |
+| 04 | 方法与递归         | 方法设计、值传递、重载、可变参数、调用栈、递归与记忆化       |
+| 05 | 数组与字符串       | 数组、二维数组、复制、String 不可变、StringBuilder、文本块、正则 |
+| 06 | 类与对象           | 构造器、封装、static、对象内存、record                       |
+| 07 | 继承与多态         | extends / super、重写、动态分派、Object 契约、抽象类、组合   |
+| 08 | 接口、枚举与设计   | 接口、default、枚举、策略模式、依赖注入、SOLID、注解         |
+| 09 | 异常处理           | 异常体系、try / catch / finally、try-with-resources、自定义异常、反模式 |
+| 10 | 集合与泛型         | List / Set / Map、ArrayList、HashMap 原理、泛型、类型擦除、PECS |
+| 11 | Lambda 与 Stream   | 函数式接口、方法引用、Stream 流水线、Collectors、Optional、并行流 |
+| 12 | 日期时间与 IO      | java.time、时区、Path / Files、字符流、CSV 处理、编码        |
+| 13 | 并发编程           | 线程、竞态条件、synchronized、volatile、Atomic、线程池、虚拟线程 |
+| 14 | JVM、内存与性能    | 运行时数据区、类加载、GC、G1 / ZGC、JIT、jstack / jmap / JFR |
+| 15 | 测试、构建与工程化 | JUnit 5、TDD、Maven、日志、Git、调试、CI                     |
+| 16 | 综合项目           | 图书借阅系统：需求、分层、完整源码、测试、扩展路线           |
+| 17 | 知识全景与进阶     | 版本演进、后端 / Android / 大数据路线、30 天计划、自检清单   |
 
 ## 15 个可视化实验
 
