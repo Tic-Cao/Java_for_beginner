@@ -55,7 +55,9 @@
 14. **线程竞争**：无锁丢失更新 vs 加锁结果
 15. **GC 标记清除**：从 GC Roots 做可达性分析
 
-![代码运行](preview-run.png)
+代码运行
+<img width="1440" height="1100" alt="preview-run" src="https://github.com/user-attachments/assets/252c71ac-82cf-4c9e-b77b-5448f7c33095" />
+
 
 ## 功能
 
